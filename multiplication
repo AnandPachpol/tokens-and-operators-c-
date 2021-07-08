@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+main()
+{int a,b,c;
+cout<<"enter two nos.";
+cin>>a>>b;
+c=a*b;
+cout<<"the product of two nos. is\n"<<c;	
+}
